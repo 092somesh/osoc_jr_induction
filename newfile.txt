@@ -1,0 +1,24 @@
+commit 994e01d06ba98e41539460e68997990dc7195134
+Merge: a6b689a 55141b5
+Author: 092somesh <itsmesomesh0628@gmail.com>
+Date:   Fri Jan 7 22:18:32 2022 +0530
+
+    Conflict is resolved
+
+commit 55141b528501c1663ad97b1c5ddf5f38c4b251af
+Author: 092somesh <itsmesomesh0628@gmail.com>
+Date:   Fri Jan 7 22:09:56 2022 +0530
+
+    comitting a file
+
+commit a6b689a33c3daf59e582eb559cc8973e20cb03c1
+Author: 092somesh <itsmesomesh0628@gmail.com>
+Date:   Fri Jan 7 22:03:22 2022 +0530
+
+    now file are comitting
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit

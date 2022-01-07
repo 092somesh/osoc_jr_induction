@@ -1,0 +1,2 @@
+The easiest way to remove a merge conflict is to do the necessary changes
+and adding  and comitting changes to the main branch 
